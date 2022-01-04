@@ -20,10 +20,10 @@ print(f"Jumlah telur yang ada di toko: {jumlah_telur} butir.")
 
 if jumlah_botol_susu > 0:
     print("Budi mengecek harganya dan ternyata uangnya cukup.")
-    if jumlah_botol_susu == 0:
+    if jumlah_telur == 0:
         print("Budi membeli 1 botol susu.")
     else:
-        print("Budi membeli 6 botol susu.")
+        print("Budi membeli 1 botol susu dan 6 butir telur.")
 else:
     print("Budi tidak jadi membeli satu 1 susu.")
 
