@@ -8,7 +8,7 @@ Tiga sintaksis dasar dalam pemrograman adalah:
 # Sekuensial
 print('Ibu berkata, "Pergi belanja ke toko."')
 print('Budi menjawab, "Baik Bu, apa yang harus saya beli?"')
-print('Ibu menjawab, "Beli 1 botol susu dan jika ada telur, beli 6."')
+print('Ibu menjawab, "Beli 1 botol susu dan jika ada telur, beli 6 butir."')
 print('Maka Budi berangkat ke toko dan mulai berbelanja.')
 
 # Percabangan
