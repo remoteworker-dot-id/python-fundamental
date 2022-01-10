@@ -13,7 +13,7 @@ print('Maka Budi berangkat ke toko dan mulai berbelanja.')
 
 # Percabangan
 jumlah_botol_susu = 173
-jumlah_telur = 1500
+jumlah_telur = 1501
 
 print(f"\nJumlah susu yang ada di toko: {jumlah_botol_susu} botol.")
 print(f"Jumlah telur yang ada di toko: {jumlah_telur} butir.")
